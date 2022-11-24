@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Chapman Fellow in the Department of Mathematics at Imperial College London. Previously I was a postdoctoral researcher at the Data Science Lab of the Mathematical Sciences Institute (ICMAT-CSIC).
+I am a Chapman Fellow in the Department of Mathematics at Imperial College London. Previously I was a postdoctoral researcher at the Data Science Lab of the Institute of Mathematical Sciences (ICMAT-CSIC).
 
 Research interests
 ======
@@ -19,10 +19,15 @@ Research interests
 Contact details
 ======
 Office 535
+
 Huxley Building
+
 Department of Mathematics
+
 Imperial College London
+
 180 Queen's Gate
+
 SW7 2AZ, London (UK)
 
 
