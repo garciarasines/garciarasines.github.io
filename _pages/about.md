@@ -16,19 +16,7 @@ Research interests
 - Post-selection inference.
 - Adversarial risk analysis.
 
-Contact details
-======
-Office 535
 
-Huxley Building
-
-Department of Mathematics
-
-Imperial College London
-
-180 Queen's Gate
-
-SW7 2AZ, London (UK)
 
 
 
