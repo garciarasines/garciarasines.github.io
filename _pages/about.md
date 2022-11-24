@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Chapman Fellow in the Department of Mathematics at Imperial College London. Previously I was a postdoctoral researcher at the Data Science Lab of the Institute of Mathematical Sciences (ICMAT-CSIC).
+I am a Chapman Fellow in the Department of Mathematics at Imperial College London. Previously, I was a postdoctoral researcher at the Data Science Lab of the Institute of Mathematical Sciences (ICMAT-CSIC).
 
 Research interests
 ======
