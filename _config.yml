@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Daniel García Rasines"
-  avatar           : ![](/images/Garcia Rasines_ Daniel _3.jpeg)
+  avatar           : "images/Garcia Rasines_ Daniel _3.jpeg"
   bio              : "Chapman Fellow in Mathematics at Imperial College London"
   location         : "London, UK"
   employer         : 
