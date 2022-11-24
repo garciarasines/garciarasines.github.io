@@ -87,8 +87,8 @@ author:
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=zvBwc4EAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "daniel.garcia-rasines16@imperial.ac.uk"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,17 +96,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/garciarasines"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/daniel-garc%C3%ADa-rasines-18a370126/?originalSubdomain=es"
+  orcid            : "https://dblp.org/pid/213/2210.html"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://math.stackexchange.com/users/96044/dgrasines"
   steam            :
   tumblr           :
   twitter          : "replacethistwitterhandle"
