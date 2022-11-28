@@ -12,9 +12,9 @@ I am a Chapman Fellow in the Department of Mathematics at Imperial College Londo
 
 Research interests
 ======
-- Principles of statistical inference.
-- Post-selection inference.
-- Adversarial risk analysis.
+- Principles of statistical inference: conditionality, ancillarity, Fisherian-Bayes-Frequentist interplay.
+- Post-selection inference: valid inference for a data-dependent parameter of interest.
+- Adversarial risk analysis: principled decision making under uncertainty and competition.
 
 
 
