@@ -3,7 +3,7 @@ title: "Graduate Teaching Assistant"
 collection: teaching
 venue: "Imperial College London"
 type: "Undergraduate and postgraduate"
-date: 
+date: 2017-01-01
 location: "City, Country"
 ---
 
@@ -19,11 +19,4 @@ location: "City, Country"
 
 * Probability and Statistics 1 (UG, Autumn 2017, 2019)
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
