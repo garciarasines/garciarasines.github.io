@@ -1,4 +1,3 @@
-
 ---
 title: "Empirical Bayes and selective inference"
 collection: publications
