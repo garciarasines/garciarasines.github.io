@@ -17,9 +17,9 @@ Education
 
 Work experience
 ======
-Predoctoral researcher, ICMAT-CSIC, 2021 
-Postdoctoral researcher, ICMAT-CSIC, 2021-2022 
-Research fellow, Imperial College, 2022-
+* Predoctoral researcher, ICMAT-CSIC, 2021 
+* Postdoctoral researcher, ICMAT-CSIC, 2021-2022 
+* Research fellow, Imperial College, 2022-
 
 Publications
 ======
