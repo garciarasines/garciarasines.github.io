@@ -1,14 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "Probability and Statistics for JMC (MATH50013)"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
----
+type: "Undergraduate"
 
-This is a description of a teaching experience. You can use markdown like any other post.
+venue: "Imperial College London"
+date: 2022-01-01
+
+---
 
 Heading 1
 ======
