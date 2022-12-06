@@ -1,8 +1,8 @@
 ---
-title: "Adversarial issues in reliability"
+title: "Empirical Bayes and selective inference"
 collection: publications
-excerpt: 'With David Ríos'
-date: 2018-10-01
-venue: 'European Journal of Operational Research'
+excerpt: 'Alastair Young'
+date: 2022-10-01
+venue: 'Journal of the Indian Institute of Science'
 
 ---
