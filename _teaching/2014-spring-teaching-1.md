@@ -2,7 +2,8 @@
 title: "Graduate Teaching Assistant"
 collection: teaching
 venue: "Imperial College London"
-
+type: "Undergraduate and postgraduate"
+date: 
 location: "City, Country"
 ---
 
