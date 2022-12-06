@@ -7,3 +7,5 @@ venue: "Imperial College London"
 date: 2022-01-01
 
 ---
+
+Introductory course to probability and statistics in the Joint Maths and Computing degreee
