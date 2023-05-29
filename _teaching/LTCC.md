@@ -1,11 +1,10 @@
 ---
 title: "Selective Inference"
 collection: teaching
-type: "Undergraduate"
+type: "Postgraduate"
 
 venue: "London Taught School Centre"
 date: 2023-01-01
 
 ---
 
-10-hour doctoral course
