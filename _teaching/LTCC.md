@@ -3,7 +3,7 @@ title: "Selective Inference"
 collection: teaching
 type: "Postgraduate"
 
-venue: "London Taught School Centre"
+venue: "London Taught Course Centre"
 date: 2023-01-01
 
 ---
