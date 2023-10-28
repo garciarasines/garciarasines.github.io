@@ -1,11 +1,10 @@
 ---
 title: "Probability and Statistics for JMC (MATH50013)"
 collection: teaching
-type: "Undergraduate (2022, 2023)"
+type: "Undergraduate"
 
 venue: "Imperial College London"
-date: 
+date: 2022-10-01
 
 ---
 
-Introductory course to probability and statistics in the Joint Mathematics and Computing degreee
