@@ -11,15 +11,14 @@ redirect_from:
 
 Education
 ======
-* BSc in Mathematics, University of Santiago de Compostela, 2016
+* PhD in Statistics, Imperial College London, 2021
 * MSc in Statistics, Imperial College London, 2017 
-* PhD in Statistics, Imperial College London, 2021 
+* BSc in Mathematics, University of Santiago de Compostela, 2016
 
 Work experience
 ======
-* Predoctoral researcher, ICMAT-CSIC, 2021 
+* Chapman Fellow, Imperial College London, 2022-2024
 * Postdoctoral researcher, ICMAT-CSIC, 2021-2022 
-* Research fellow, Imperial College, 2022-
 
 Publications
 ======
