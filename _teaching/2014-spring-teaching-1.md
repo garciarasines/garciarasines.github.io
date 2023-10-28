@@ -7,8 +7,6 @@ date: 2017-01-01
 location: "City, Country"
 ---
 
-Main duties: demonstration and marking
-
 * Contemporary Statistical Theory (PG, Spring 2021)
 
 * Fundamentals of Statistical Inference (PG, Autumn 2020)
