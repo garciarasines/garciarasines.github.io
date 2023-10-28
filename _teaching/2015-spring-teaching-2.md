@@ -4,8 +4,8 @@ collection: teaching
 type: "Undergraduate"
 
 venue: "Imperial College London"
-date: 2022-01-01
+2022, 2023
 
 ---
 
-Introductory course to probability and statistics in the Joint Maths and Computing degreee
+Introductory course to probability and statistics in the Joint Mathematics and Computing degreee
