@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate"
 
 venue: "StatML CDT (Imperial and Oxford)"
-date: 2023-01-01
+date: 2023-06-01
 
 ---
 
