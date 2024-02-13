@@ -8,8 +8,6 @@ date: 2023-06-01
 
 ---
 
-10-hour doctoral course.
-
 Course material:
 
 https://garciarasines.github.io/files/CDT_Day1.pdf
