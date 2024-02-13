@@ -8,8 +8,6 @@ date: 2024-01-01
 
 ---
 
-10-hour doctoral course 
-
 Course material:
 
 https://garciarasines.github.io/files/LTCC_Day1.pdf
