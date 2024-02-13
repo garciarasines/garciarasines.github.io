@@ -5,7 +5,7 @@ type: "Postgraduate"
 
 venue: "London Taught Course Centre"
 date: 2024-01-01
-
+ 
 ---
 
 Course material:
